@@ -1,0 +1,2 @@
+/Users/irvinmendez/Desktop/proyect/livee/flutter_rtmp_broadcaster/example/android/app/.cxx/Debug/326su552/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/irvinmendez/Desktop/proyect/livee/flutter_rtmp_broadcaster/example/android/app/.cxx/Debug/326su552/x86_64/CMakeFiles/edit_cache.dir
